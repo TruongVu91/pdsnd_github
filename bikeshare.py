@@ -445,7 +445,7 @@ def user_stats(df):
  
 
 def display_raw_data(df):
-
+    # display raw data function.
     # Ask user if they want to see individual trip data.
 
     start_data = 0
