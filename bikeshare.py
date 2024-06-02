@@ -46,7 +46,7 @@ def get_filters():
 
     print('Hello! Let\'s explore some US bikeshare data!')
 
-    #get user input for city (chicago, new york city, washington)
+    #get user input for city (chicago, new york city and washington)
 
     while True:
 
