@@ -14,7 +14,7 @@ Simulating a realistic workflow of version control in a project
 
 ### Files used
 
-bikeshare.py, newyork.csv
+bikeshare.py, newyork.csv, ...
 
 ### Credits
 
